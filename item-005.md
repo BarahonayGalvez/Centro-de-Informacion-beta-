@@ -2,8 +2,8 @@
 
 Registro del módulo de notificaciones del sistema.
 
-- **Estado:** borrador
+- **Estado:** activo *(actualizado)*
 - **Categoría:** comunicación
-- **Prioridad:** media
+- **Prioridad:** alta
 
 Descripción breve: Gestiona alertas y mensajes hacia los usuarios. Creado para validar el nuevo ciclo CRUD con git.
