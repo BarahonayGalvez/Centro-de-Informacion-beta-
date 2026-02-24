@@ -2,7 +2,7 @@
 
 Registro de configuración del sistema.
 
-- **Estado:** pendiente
+- **Estado:** activo *(actualizado)*
 - **Categoría:** configuración
 - **Prioridad:** media
 
